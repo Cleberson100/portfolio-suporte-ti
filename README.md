@@ -1,7 +1,13 @@
-# 🛠️ Portfólio — Suporte de TI / Help Desk
+# 💻 Portfólio de TI | Help Desk e Infraestrutura
 
-Projetos práticos desenvolvidos em ambiente de laboratório para demonstrar
-conhecimentos em diagnóstico, troubleshooting e suporte técnico.
+Bem-vindo ao meu portfólio!
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com conhecimentos em suporte técnico, redes, Windows e Linux.
+
+Este repositório reúne projetos práticos desenvolvidos em laboratório, com foco em diagnóstico de problemas, troubleshooting, manutenção de sistemas e infraestrutura de TI.
+
+Meu objetivo é demonstrar minhas habilidades técnicas, documentar minha evolução e me preparar para oportunidades em Help Desk, Suporte Técnico N1 e Infraestrutura.
+
 
 ## 📁 Projetos
 
